@@ -32,6 +32,23 @@ I am always looking for ways to add value to your business, whether it's through
 - ✅ **Long-term partnership:**<br>
 I take pride in building long-term relationships with my clients. My goal is to support you as your business grows and changes, always ready to provide ongoing support and maintenance. I take full responsibility for the projects I work on, and I am always available to answer questions or provide assistance, even years down the road.
 
+
+<h4>Reviews from my clients 🙌:</h4>
+
+⭐⭐⭐⭐⭐ **Natural Language Processing Engineer wanted** <br>
+_"We had the pleasure of working with Ivan Zidov, who consistently demonstrated exceptional creativity, deep technical expertise, and a strong entrepreneurial mindset. His enthusiasm and vibrant energy not only contributed to the success of our project but also made the collaboration an absolute joy. We eagerly anticipate the opportunity to collaborate with Ivan on future projects and wholeheartedly recommend him to others seeking a dedicated and innovative professional!"_
+
+⭐⭐⭐⭐⭐ **Quick chat Re ChatGPT (capabilities + limitations) - fine-tuning** <br>
+_"It was a great experience working with Ivan. He took time to really prepare for our meeting, came with a demo (without being asked), and went above and beyond with follow-up help. I would recommend Ivan 100%."_
+
+⭐⭐⭐⭐⭐ **Creation of A.I. Writing Tool to Convert Articles into Poetry** <br>
+_"Great experience working with Ivan on the AI writing tool - Very talented, responsive and professional!"_
+
+⭐⭐⭐⭐⭐ **GPT-3 Prompt Design Expert Needed** <br>
+_"Ivan thoroughly impressed me. He came to my interview clearly well-prepared and highly professional. More importantly, he is an extremely skilled individual. Ivan totally exceeded my expectations and did his job well. I highly recommend Ivan as a top-grade freelancer."_
+
+
+
 <h4>Tech Stack 🛠️:</h4>
 
 - **Programming Languages 🐍:** Python, R
